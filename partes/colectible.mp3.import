@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/colectible.mp3-b6a32ad7bcc8197e87e7cb445df7c3e7.mp3str"
+
+[deps]
+
+source_file="res://partes/colectible.mp3"
+dest_files=[ "res://.import/colectible.mp3-b6a32ad7bcc8197e87e7cb445df7c3e7.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

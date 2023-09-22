@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Proyect_Story_Mode.mp3-3526ad9eee763265d71481e60398f8fc.mp3str"
+
+[deps]
+
+source_file="res://partes/Proyect_Story_Mode.mp3"
+dest_files=[ "res://.import/Proyect_Story_Mode.mp3-3526ad9eee763265d71481e60398f8fc.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

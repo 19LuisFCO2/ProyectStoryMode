@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Game_Over_-_Sonic_Colors_[OST].mp3-499c8bd2998fa2f668eecf444d75b559.mp3str"
+
+[deps]
+
+source_file="res://partes/Game_Over_-_Sonic_Colors_[OST].mp3"
+dest_files=[ "res://.import/Game_Over_-_Sonic_Colors_[OST].mp3-499c8bd2998fa2f668eecf444d75b559.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

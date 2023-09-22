@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/STAGE_CLEAR_J_32.dspadpcm.mp3-fcd53c948a744790e8477aab8d138ae1.mp3str"
+
+[deps]
+
+source_file="res://partes/STAGE_CLEAR_J_32.dspadpcm.mp3"
+dest_files=[ "res://.import/STAGE_CLEAR_J_32.dspadpcm.mp3-fcd53c948a744790e8477aab8d138ae1.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

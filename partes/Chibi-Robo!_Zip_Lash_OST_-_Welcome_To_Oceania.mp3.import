@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Chibi-Robo!_Zip_Lash_OST_-_Welcome_To_Oceania.mp3-75ea47ac214d5eff7f258e67ca1eb6c5.mp3str"
+
+[deps]
+
+source_file="res://partes/Chibi-Robo!_Zip_Lash_OST_-_Welcome_To_Oceania.mp3"
+dest_files=[ "res://.import/Chibi-Robo!_Zip_Lash_OST_-_Welcome_To_Oceania.mp3-75ea47ac214d5eff7f258e67ca1eb6c5.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

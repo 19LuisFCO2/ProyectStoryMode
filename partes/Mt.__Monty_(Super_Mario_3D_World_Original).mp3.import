@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Mt.__Monty_(Super_Mario_3D_World_Original).mp3-d97d4d2efab0b4da78993b032f5971cf.mp3str"
+
+[deps]
+
+source_file="res://partes/Mt.__Monty_(Super_Mario_3D_World_Original).mp3"
+dest_files=[ "res://.import/Mt.__Monty_(Super_Mario_3D_World_Original).mp3-d97d4d2efab0b4da78993b032f5971cf.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

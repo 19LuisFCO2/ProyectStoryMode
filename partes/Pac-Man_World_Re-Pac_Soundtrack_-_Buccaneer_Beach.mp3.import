@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Pac-Man_World_Re-Pac_Soundtrack_-_Buccaneer_Beach.mp3-495c4ce41f456e86df8617e3ae189bdc.mp3str"
+
+[deps]
+
+source_file="res://partes/Pac-Man_World_Re-Pac_Soundtrack_-_Buccaneer_Beach.mp3"
+dest_files=[ "res://.import/Pac-Man_World_Re-Pac_Soundtrack_-_Buccaneer_Beach.mp3-495c4ce41f456e86df8617e3ae189bdc.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

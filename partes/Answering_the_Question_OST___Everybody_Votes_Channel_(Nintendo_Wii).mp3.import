@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Answering_the_Question_OST___Everybody_Votes_Channel_(Nintendo_Wii).mp3-5e9aaea0b39bfbd0f8ce4bc7d51cb293.mp3str"
+
+[deps]
+
+source_file="res://partes/Answering_the_Question_OST___Everybody_Votes_Channel_(Nintendo_Wii).mp3"
+dest_files=[ "res://.import/Answering_the_Question_OST___Everybody_Votes_Channel_(Nintendo_Wii).mp3-5e9aaea0b39bfbd0f8ce4bc7d51cb293.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
